@@ -7,7 +7,7 @@
   
 * [**后端**](backend.md)
   
-* [**大数据**](bigdata.MongoDB)
+* [**大数据**](bigdata.md)
   
 * [**计算机科学**](cs.md)
 
@@ -31,6 +31,6 @@
 
 * [**安全**](safe.md)
 
-* [**硬件**](heardware.md)
+* [**硬件**](hardware.md)
 
 * [**其他**](other.md)

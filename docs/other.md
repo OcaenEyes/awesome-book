@@ -110,8 +110,7 @@
   * [Indie](awesome/awesome-indie.md)
   * 工作
     * [Slack](awesome/awesome-slack.md)
-    * [Slack内容]
-    * [社区](awesome/awesome-slack.md)
+      * [社区](awesome/awesome-slack.md)
     * [远程工作](awesome/awesome-remote-job.md)
     * [生产力](awesome/awesome-productivity.md)
     * [NicheJobBoards](awesome/awesome-job-boards.md)
