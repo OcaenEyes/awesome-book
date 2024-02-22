@@ -2,8 +2,8 @@
  * @Author: OCEAN.GZY
  * @Date: 2023-07-26 14:59:34
  * @LastEditors: OCEAN.GZY
- * @LastEditTime: 2023-07-26 18:18:40
- * @FilePath: /docs/README.md
+ * @LastEditTime: 2024-02-22 16:40:59
+ * @FilePath: /awesome-book/docs/README.md
  * @Description: 注释信息
 -->
 # 超赞知识合集～ 学习就完事了:100:——Ocean.GZY
@@ -17,7 +17,7 @@
 
 ### 👋 Social Media
 
-- 🛠️ Blog: [http://oceaneyes.top](http://oceaneyes.top)
+- 🛠️ Blog: [http://oceaneyes.top](http://oceangzy.top)
 - ⚡ PM导航: [https://pmhub.oceangzy.top](https://pmhub.oceangzy.top)
 - 💬 WeChat: [OCEANGZY](https://oceaneyes.top/img/wechatqrcode.jpg)
 - 💬 公众号: [UncleJoker-GZY](https://oceaneyes.top/img/wechatgzh.jpeg)
