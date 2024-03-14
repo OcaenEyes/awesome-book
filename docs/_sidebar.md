@@ -1,5 +1,13 @@
+<!--
+ * @Author: OCEAN.GZY
+ * @Date: 2023-07-26 15:07:13
+ * @LastEditors: OCEAN.GZY
+ * @LastEditTime: 2024-03-14 15:29:15
+ * @FilePath: /docs/_sidebar.md
+ * @Description: 注释信息
+-->
 
-* [**C++学习笔记**](https://ocaeneyes.github.io/CPPKnowledge/index.html)
+* [**C++学习笔记**](https://oceangzy.github.io/CPPKnowledge/index.html)
 
 * [**平台**](platform.md)
 

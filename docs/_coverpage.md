@@ -12,7 +12,7 @@
  [:desktop_computer:个人博客](http://oceangzy.top)
  [:spider_web:PM导航](http://pmhub.oceangzy.top)
  [:toolbox:AI小应用](http://ai.oceangzy.top)
- [:thumbsup:GitHub](https://github.com/OcaenEyes)
+ [:thumbsup:GitHub](https://github.com/oceangzy)
  [:paperclip:IT工具集](https://it-tools-lemon.vercel.app)
  [:book:去阅读](platform.md)
 
